@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaik Zunaid Ahamed
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Full Stack Web Dev, Data Processing on the Cloud ...
+- 🌱 I’m currently learning MERN Stack, Data Processing on the Cloud ...
 - 🧩 I’m looking to collaborate on Web Tech projects
 
 <!---
