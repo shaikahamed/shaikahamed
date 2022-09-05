@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaik Zunaid Ahamed
-- 👀 I’m interested in Computers
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning MERN Stack, Data Processing on the Cloud ...
 - 🧩 I’m looking to collaborate on Web Tech projects
 
